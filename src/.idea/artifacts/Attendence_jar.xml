@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Attendence:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Attendence_jar</output-path>
+    <root id="archive" name="Attendence.jar">
+      <element id="module-output" name="Attendence" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/JavaClasses.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jakarta.mail-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-j-8.1.0 2/mysql-connector-j-8.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jakarta.activation-2.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
